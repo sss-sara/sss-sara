@@ -7,7 +7,7 @@
 <br> <br>
 <img src="https://komarev.com/ghpvc/?username=sss-sara&style=for-the-badge&color=lightgrey&label=Views" alt="Views">
 
-| <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/oproprioleonardo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oproprioleonardo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sss-sara"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/sss-sara"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss-sara&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br>
