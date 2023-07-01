@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sss-sara;
 - 👀 I would like to be a Software Engineer
 - 🌱 I’m currently learning Java
-- 🏫 I'm currently studying at IFSP - Campus Cubatão
+- 🏫 I'm currently studying at Instituto Federal de Ciência e Tecnologia (IFSP) - Campus Cubatão
 - 💞️ I am a basic english speaker 
 - 📫 You can reach me by my email address: sassacmelosouza@gmail.com
 <br> <br>
