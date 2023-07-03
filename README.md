@@ -1,22 +1,26 @@
-- 👋 Hi, I’m @sss-sara;
-- 👀 I would like to be a Software Engineer
-- 🌱 I’m currently learning Java
-- 🏫 I'm currently studying at Instituto Federal de Ciência e Tecnologia (IFSP) - Campus Cubatão
-- 💞️ I am a basic english speaker 
-- 📫 You can reach me by my email address: sassacmelosouza@gmail.com
-<br> <br>
-<img src="https://komarev.com/ghpvc/?username=sss-sara&style=for-the-badge&color=lightgrey&label=Views" alt="Views">
-
-| <a href="https://github.com/sss-sara"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leonardo's github stats" /></a> | <a href="https://github.com/sss-sara"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss-sara&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
+## Hi, im Sara Melo
+- 👩‍💻 I would like to be a Software Engineer
+- 🎒 I’m currently learning Java
+- 🏬 I'm currently studying at Instituto Federal de Ciência e Tecnologia (IFSP) - Campus Cubatão
+- 🇺🇸 I am a basic english speaker 
+<div>
+  <a href="https://github.com/sss-sara">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&theme=dark"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss-sara&size_weight=0.5&count_weight=0.5&theme=dark&size_weight=0.5&count_weight=0.5"/>
+</div>
+<div><br>
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
+ <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
 <br>
 
-- Skills:
+<div> 
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  <a href="https://www.instagram.com/saramelo74" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sassacmelosouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/sara-melo-a58963281" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
