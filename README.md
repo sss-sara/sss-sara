@@ -7,7 +7,6 @@
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&theme=dark"/>
     <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sss-sara&size_weight=0.5&count_weight=0.5&theme=dark&size_weight=0.5&count_weight=0.5"/>
 </div>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,java,postgres,nextjs)](https://skillicons.dev)
 <br>
 
 <div> 
