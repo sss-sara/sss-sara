@@ -1,8 +1,7 @@
-## Hi, im Sara Melo
-- 👩‍💻 I would like to be a Software Engineer
-- 🎒 I’m currently learning Java
-- 🏬 I'm currently studying at Instituto Federal de Ciência e Tecnologia (IFSP) - Campus Cubatão
-- 🇺🇸 I am a basic english speaker 
+## Oi, eu sou a Sara Melo
+- 🏬 Atualmente estou fazendo graduação em Engenharia de Software
+- 🏬 Técnica em Informática pelo Instituto Federal de Ciência e Tecnologia de São Paulo (IFSP)
+- 🇺🇸 Eu falo inglês intermediário
 <div>
   <a href="https://github.com/sss-sara">
     <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=sss-sara&show_icons=true&theme=dark"/>
